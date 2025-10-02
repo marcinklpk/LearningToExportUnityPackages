@@ -1,0 +1,12 @@
+{
+  "name": "com.testName.testPackage",
+  "version": "1.0.0",
+  "displayName": "Test Unity Package",
+  "description": "just learning to export packages nothing to see here.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Fake Name",
+    "email": "fakeEmail@gmail.com",
+    "url": "https://github.com/marcinklpk/LearningToExportUnityPackages"
+  }
+}
